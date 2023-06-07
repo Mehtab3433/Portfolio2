@@ -1,0 +1,29 @@
+.bodyy{
+	background-color: mediumpurple;
+}
+.ppic{
+	height: 120px;
+	width: 120px;
+	/*align-items: rignt;*/
+	float: right;
+	border:5px dotted purple;
+}
+.tophead{
+	margin: 0; 
+	text-align: center;
+}
+.tophead2{
+	margin: 0; 
+	text-align: center; 
+	font-family: courier;
+}
+.points{
+	margin-bottom: 0;
+	margin-top: 0;
+}
+.lines{
+	margin-bottom: 0;
+}
+.info{
+	margin: 5px;
+}
